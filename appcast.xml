@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Mathy Math</title>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mathy Math</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 26 Oct 2026 06:52:40 -0500</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.1.0-38/MathyMath-v0.1.0-38.zip" length="1636328" type="application/octet-stream" sparkle:edSignature="H0Ewu+UuX8msIBxKvu85HPoMO360tit1796rCcADRvLRHoE+5BHI31oe0a/eHvnoWDS75OouADVRAC7yJ3sxAQ=="/>
+        </item>
+    </channel>
 </rss>
