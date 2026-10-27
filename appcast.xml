@@ -4,6 +4,14 @@
         <title>Mathy Math</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 26 Oct 2026 20:29:20 -0500</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.1.0-41/MathyMath-v0.1.0-41.zip" length="1642325" type="application/octet-stream" sparkle:edSignature="rr3yal37LEXj39blP9Ykqr0fh1Vcqq+NzZEYR48gQyG5iSJYXrHbN4kPiMVnAafkiueK8gIhmzaU1esuRobEDA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 26 Oct 2026 20:23:59 -0500</pubDate>
             <sparkle:version>40</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
