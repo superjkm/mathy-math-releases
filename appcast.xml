@@ -4,6 +4,14 @@
         <title>Mathy Math</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sat, 31 Oct 2026 10:19:24 -0500</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.1.0-53/MathyMath-v0.1.0-53.zip" length="1712089" type="application/octet-stream" sparkle:edSignature="S8wNNO5YkqvMDwhLGXYsJp0etW/g+bHZloQufoWvPy+Lic91ke7tM34c1Xs5oVmsSMFrgUR2rodE+qP0oP0DCw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 26 Oct 2026 20:29:20 -0500</pubDate>
             <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.1.0-40/MathyMath-v0.1.0-40.zip" length="1642315" type="application/octet-stream" sparkle:edSignature="3UprBWN0UukKVtbNZWLCQhGsLMz0ru/w9gEmP3K9nmh54vWMFQJciU25cQe5hx0VqPsbsx1gosbOG9UbXjcbAg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Mon, 26 Oct 2026 06:52:40 -0500</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.1.0-38/MathyMath-v0.1.0-38.zip" length="1636328" type="application/octet-stream" sparkle:edSignature="H0Ewu+UuX8msIBxKvu85HPoMO360tit1796rCcADRvLRHoE+5BHI31oe0a/eHvnoWDS75OouADVRAC7yJ3sxAQ=="/>
         </item>
     </channel>
 </rss>
