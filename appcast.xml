@@ -3,6 +3,14 @@
     <channel>
         <title>Mathy Math</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Wed, 04 Nov 2026 16:36:04 -0600</pubDate>
+            <sparkle:version>114</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.2.4-114/MathyMath-v0.2.4-114.zip" length="1916937" type="application/octet-stream" sparkle:edSignature="0vMx2QcrA9IDK0khrJom3xJ6YVtxoB0NXY+pWRoTY5NVRk8Oeq+hVmbwpq9CmW9yJle/pbB3fCcMx82DINKkAA=="/>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Wed, 04 Nov 2026 14:48:07 -0600</pubDate>
             <sparkle:version>107</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.2.2-100/MathyMath-v0.2.2-100.zip" length="1846093" type="application/octet-stream" sparkle:edSignature="4rRhTLpX9sE/ISke1blcGDTmkipXGBVAOxSEmcDTMB+IcSfzr/TAtR4PBrF/Jo9tJgXKdtrnMh2LyycU6qMkDw=="/>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Mon, 02 Nov 2026 19:28:37 -0600</pubDate>
-            <sparkle:version>88</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.2.1-88/MathyMath-v0.2.1-88.zip" length="1776626" type="application/octet-stream" sparkle:edSignature="BAKtURkv91N+ywT2fNuv8ZXnEURlvpoBLXFVF/ork3n+F9doLHbcKKYP3PjSL3GkDhVYeP3Zeilfx1/RNB0PCw=="/>
         </item>
     </channel>
 </rss>
