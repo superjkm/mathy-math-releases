@@ -4,6 +4,14 @@
         <title>Mathy Math</title>
         <item>
             <title>0.2.6</title>
+            <pubDate>Mon, 16 Nov 2026 09:15:23 -0600</pubDate>
+            <sparkle:version>129</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.2.6-129/MathyMath-v0.2.6-129.zip" length="2027306" type="application/octet-stream" sparkle:edSignature="+WndWugsQTRTvqKxwgQNlrnyeN3KGAFGR+Qm6Athm2jSufmuAPqZ38z3gnwTF1/G2HJ0e9o8bRKmE0fjdCGvDQ=="/>
+        </item>
+        <item>
+            <title>0.2.6</title>
             <pubDate>Mon, 16 Nov 2026 09:11:28 -0600</pubDate>
             <sparkle:version>125</sparkle:version>
             <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.2.5-120/MathyMath-v0.2.5-120.zip" length="1943997" type="application/octet-stream" sparkle:edSignature="oCX5qTULRPs4yzmHzUuspjEWxKG/gOEGFlicMao72AucZu23eHYGifMyMva1L1vOQAhs522HeWXJOodEUL0wCQ=="/>
-        </item>
-        <item>
-            <title>0.2.4</title>
-            <pubDate>Wed, 04 Nov 2026 16:36:04 -0600</pubDate>
-            <sparkle:version>114</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/superjkm/mathy-math-releases/releases/download/v0.2.4-114/MathyMath-v0.2.4-114.zip" length="1916937" type="application/octet-stream" sparkle:edSignature="0vMx2QcrA9IDK0khrJom3xJ6YVtxoB0NXY+pWRoTY5NVRk8Oeq+hVmbwpq9CmW9yJle/pbB3fCcMx82DINKkAA=="/>
         </item>
     </channel>
 </rss>
